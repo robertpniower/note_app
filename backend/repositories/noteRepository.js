@@ -1,0 +1,10 @@
+
+
+class NoteRepository {
+
+
+  async create(){
+
+}
+
+}
